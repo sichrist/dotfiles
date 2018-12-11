@@ -1,5 +1,5 @@
 *.old
 *.dot*
 *.bz2
-*.swap
+*.swp
 tmp/
